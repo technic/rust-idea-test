@@ -1,0 +1,6 @@
+[package]
+name = "rust-idea-test"
+version = "0.1.0"
+authors = ["Alex Maystrenko <alexeytech@gmail.com>"]
+
+[dependencies]
